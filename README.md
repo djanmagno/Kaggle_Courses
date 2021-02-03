@@ -16,7 +16,7 @@ The agenda for this course is:
    * *Data Types and Missing Values*
    * *Rename and Combining*
    
-  ### Data Cleaning*
+  ### Data Cleaning
   
    * *Handling Missing Values*
    * *Scaling and Normalization*
@@ -24,7 +24,7 @@ The agenda for this course is:
    * *Character Encodings*
    * *Inconsistent Data Entry*
   
-  ### Data Visualization*
+  ### Data Visualization
   
    * *Hello, Seaborn*
    * *Line Charts*
