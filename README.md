@@ -5,9 +5,9 @@
 
 The objective of this project is to continue improving my learnings in the field of Data Science throughout the micro courses offered by Kaggle Website. The datasets used on the jupyter notebooks are present inside of Kaggle's website, so all jupyter notebooks present here are only to keep my track on the courses and kepp them as study material for future observations.
 
-The agenda for this courses is:
+The agenda for this course is:
   
-  Pandas
+  *Pandas*
   
    * Creating, Reading and Writing
    * Indexing, Selecting & Assigning
@@ -16,7 +16,7 @@ The agenda for this courses is:
    * Data Types and Missing Values
    * Rename and Combining
    
-  Data Cleaning
+  *Data Cleaning*
   
    * Handling Missing Values
    * Scaling and Normalization
@@ -24,7 +24,7 @@ The agenda for this courses is:
    * Character Encodings
    * Inconsistent Data Entry
   
-  Data Visualization
+  *Data Visualization*
   
    * Hello, Seaborn
    * Line Charts
@@ -36,7 +36,7 @@ The agenda for this courses is:
 
 ![](../header.png)
 
-## Ferramentas de Desenvolvimento
+## Development Tools
 
 * Python
 * Jupyter Notebook
@@ -46,7 +46,7 @@ The agenda for this courses is:
 * Git
 * Github
 
-## Meta
+## Targets
 
 Revisar e aprender mais sobre Python 3 e suas usuabilidades.
 
@@ -54,6 +54,6 @@ Djan Magno – [@djanmagno] – djan.de_alcantara_magno@edu.escp.eu
 
 [https://github.com/djanmagno]
 
-## Contribuintes
+## Contributors
 
-1. Curso Em Vídeo (https://www.cursoemvideo.com/cursos/)
+1. Curso Em Vídeo (https://www.kaggle.com/learn/overview)
