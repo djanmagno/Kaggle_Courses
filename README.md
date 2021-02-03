@@ -6,7 +6,9 @@
 The objective of this project is to continue improving my learnings in the field of Data Science throughout the micro courses offered by Kaggle Website. The datasets used on the jupyter notebooks are present inside of Kaggle's website, so all jupyter notebooks present here are only to keep my track on the courses and kepp them as study material for future observations.
 
 The agenda for this courses is:
+  
   Pandas
+  
    * Creating, Reading and Writing
    * Indexing, Selecting & Assigning
    * Summary Functions and Maps
@@ -15,14 +17,22 @@ The agenda for this courses is:
    * Rename and Combining
    
   Data Cleaning
-    * Handling Missing Values
-    * Scaling and Normalization
-    * Parsing Dates
-    * Character Encodings
-    * Inconsistent Data Entry
-
+  
+   * Handling Missing Values
+   * Scaling and Normalization
+   * Parsing Dates
+   * Character Encodings
+   * Inconsistent Data Entry
+  
   Data Visualization
-    * 
+  
+   * Hello, Seaborn
+   * Line Charts
+   * Bar charts and Heatmaps
+   * Scatter Plots
+   * Distributions
+   * ChoosingPlot Types and Custom Styles
+   * Final Project
 
 ![](../header.png)
 
