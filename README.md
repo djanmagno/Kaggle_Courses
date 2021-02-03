@@ -38,13 +38,13 @@ The agenda for this course is:
 
 ## Development Tools
 
-* Python
-* Jupyter Notebook
-* Pandas, Numpy, Matplotlib, Seaborn, Skictlearn Libraries
-* SQL
-* BigQuery
-* Git
-* Github
+* *Python*
+* *Jupyter Notebook*
+* *Pandas, Numpy, Matplotlib, Seaborn, Skictlearn Libraries*
+* *SQL*
+* *BigQuery*
+* *Git*
+* *Github*
 
 ## Targets
 
