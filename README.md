@@ -7,7 +7,6 @@ The objective of this project is to continue improving my learnings in the field
 
 The agenda for this courses is:
   Pandas
-  
    * Creating, Reading and Writing
    * Indexing, Selecting & Assigning
    * Summary Functions and Maps
@@ -16,7 +15,6 @@ The agenda for this courses is:
    * Rename and Combining
    
   Data Cleaning
-  
     * Handling Missing Values
     * Scaling and Normalization
     * Parsing Dates
