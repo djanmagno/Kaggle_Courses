@@ -48,7 +48,7 @@ The agenda for this course is:
 
 ## Targets
 
-Revisar e aprender mais sobre Python 3 e suas usuabilidades.
+Improving my Data Science Skills.
 
 Djan Magno – [@djanmagno] – djan.de_alcantara_magno@edu.escp.eu
 
@@ -56,4 +56,4 @@ Djan Magno – [@djanmagno] – djan.de_alcantara_magno@edu.escp.eu
 
 ## Contributors
 
-1. Curso Em Vídeo (https://www.kaggle.com/learn/overview)
+1. Kaggle (https://www.kaggle.com/learn/overview)
