@@ -7,16 +7,16 @@ The objective of this project is to continue improving my learnings in the field
 
 The agenda for this course is:
   
-  ###Pandas
+  ### Pandas
   
    * *Creating, Reading and Writing*
    * *Indexing, Selecting & Assigning*
    * *Summary Functions and Maps*
    * *Grouping and Sorting*
    * *Data Types and Missing Values*
-   * *Rename and Combining8
+   * *Rename and Combining*
    
-  ###Data Cleaning*
+  ### Data Cleaning*
   
    * *Handling Missing Values*
    * *Scaling and Normalization*
@@ -24,7 +24,7 @@ The agenda for this course is:
    * *Character Encodings*
    * *Inconsistent Data Entry*
   
-  ###Data Visualization*
+  ### Data Visualization*
   
    * *Hello, Seaborn*
    * *Line Charts*
